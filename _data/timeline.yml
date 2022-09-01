@@ -1,17 +1,41 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Graduate Research Assistant, University of Maryland, College Park
+  from: Nov 2021
+  to: Present
+  description: Researching test and evaluation solutions to ensure confidence in artificial intelligence and autonomous systems at simulation-based system design laboratory.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, University of Maryland, College Park
+  from: Aug 2021
+  to: Present
+  description: Master of Science in Systems Engineering, specializing in Robotics.
+
+- title: Research Associate, Surgical and Assistive Robotics Lab, IIIT-B
+  from: Oct 2020
+  to: July 2021
+  description: Integration of a dual arm robotic system with a depth camera for biomimetic control via Motion Capture using Microsoft Kinect Azure.
+#   - Conducted guided experiments, maintained software and precise documentation of findings.
+
+
+- title: Research Intern, Mercedes-Benz Research & Development India, Bangalore, India
+  from: May 2018
+  to: July 2018
+#   description: Worked with an inter-disciplinary team on a next generation electric car to come up with test plans and solutions for various problems.
+#   - Developed a Data-Driven Reinforcement Learning-Based Power Supply Management System for the cooling control unit of the electric vehicle.
+#   - Developed a software tool for compiling, verifying accuracy and sorting information to prepare source data for computer entry.
+
+- title: Student, International Institute of Information Technology Bangalore, India
+  from: 2015
+  to: 2020
+  description: Integrated Master of Technology, Electronics and Communication Engineering
+
+
+
+
+# - title: Student, FIITJEE Junior College, Hyderabad, Telangana, IN
+#   from: 2014
+#   to: 2012
+#   description: 
+
+# - title: Student, All Saints’ High School, Hyderabad, Telangana, IN
+#   from: 2012
+#   to: 2002
+#   description: 
